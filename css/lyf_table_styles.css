@@ -1,0 +1,26 @@
+/* 
+
+NOTE:  If you edit this file, please back it up so that you don't lose your changes during upgrades!
+
+*/
+.lyf_td_icons {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+
+.lyf_td_filename {
+  background-color: #ffffcc !important;
+}
+
+.lyf_td_filename a {
+  font-weight: normal !important;
+}
+
+.lyf_td_size {
+  text-align: right !important;
+}
+
+.lyf_td_date {
+  color: blue;
+  background-color: #ffffcc !important;
+}

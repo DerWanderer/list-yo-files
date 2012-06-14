@@ -1,0 +1,404 @@
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: List Yo Files\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/list-yo-files\n"
+"POT-Creation-Date: 2011-10-20 05:00:49+00:00\n"
+"PO-Revision-Date: 2011-10-20 08:29+0100\n"
+"Last-Translator: Li-An <lian00@gmail.com>\n"
+"Language-Team: Li-An <lian00@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+
+#: 88-files-upload.php:2
+#: 88-files-upload.php:55
+#: 88-files-upload.php:102
+#: 88-files-upload.php:129
+#: 88-files-upload.php:141
+#: upload_ui.php:184
+#: 88-files.php:527
+msgid "Upload Files"
+msgstr "Uploader des fichiers"
+
+#: 88-files-upload.php:17
+msgid "unlimited"
+msgstr "illimité"
+
+#: 88-files-upload.php:44
+msgid "Create a Subfolder"
+msgstr "Créer un sous-répertoire"
+
+#: 88-files-upload.php:47
+msgid "You must create at least one subfolder to upload your files to."
+msgstr "Vous devez créer au moins un sous répertoire pour y uploader vos fichiers."
+
+#: 88-files-upload.php:47
+msgid "You may create %i folders."
+msgstr "Vous pouvez créer %i répertoires."
+
+#: 88-files-upload.php:48
+msgid "Create Folder"
+msgstr "Créer un répertoire"
+
+#: 88-files-upload.php:65
+msgid "You are allowed to upload as many files as you want."
+msgstr "Vous avez le droit d'uploader autant de fichiers que vous le désirez."
+
+#: 88-files-upload.php:67
+#: upload_ui.php:165
+msgid "You are allowed to upload up to %s MB in files."
+msgstr "Vous avez le droit d'uploader jusqu'à %s Mo de fichiers."
+
+#: 88-files-upload.php:69
+#: upload_ui.php:167
+msgid "You are currently using %s."
+msgstr "Vous avez utilisé présentement %s."
+
+#: 88-files-upload.php:99
+#: 88-files-upload.php:138
+#: upload_ui.php:175
+msgid "Selected Files <small>(You can upload up to 10 files at once)</small>:"
+msgstr "Fichiers sélectionnés <small>(vous pouvez uploader jusqu'à dix fichiers en un coup)</small>:"
+
+#: 88-files-upload.php:132
+msgid "Type in the name of the folder that you want to upload to.  The folder is a relative path located in your WordPress installation folder.  For example:  \"wp-content/gallery/my-new-gallery\".  <strong>NOTE:</strong>  Do not add opening or closing slashes (\"/\") to the path."
+msgstr "Entrez le nom du répertoire que vous désirez uploader. L'adresse du répertoire est un chemin relatif par rapport au répertoire d'installation de votre Wordpress. Par exemple  \"wp-content/gallery/my-new-gallery\". <strong>REMARQUE:</strong> n'ajoutez pas de slash ou d'antislash (\"/\") au chemin."
+
+#: 88-files-upload.php:133
+msgid "If the folder does not exist, then List Yo' Files will attempt to create it for you."
+msgstr "Si le répertoire n'existe pas, alors List Yo' Files tentera de le créer pour vous."
+
+#: 88-files-upload.php:134
+msgid "Folder name:"
+msgstr "Nom du répertoire:"
+
+#: 88-files-upload.php:152
+msgid "<strong>Note:</strong>  If you want to upload additional icon files for your file lists, you can do that here.  Just use input folder name: \"wp-content/plugins/list-yo-files/icons\" and then upload 16x16 .png files.  See the help for more details."
+msgstr "<strong>Remarque:</strong> si vous voulez uploader les fichiers d'icônes supplémtaires pour vos listes de fichiers, c'est possible ici. Complétez avec le nom du fichier:  \"wp-content/plugins/list-yo-files/icons\"  et uploadez ensuite les fichiers .png 16x16. Veuillez vous référer à l'aide pour plus de détails."
+
+#: upload_ui.php:63
+msgid "You must first log in before uploading files."
+msgstr "Vous devez d'abord vous connecter avant d'uploader des fichiers."
+
+#: upload_ui.php:89
+msgid "<strong>Failed</strong> to upload. Contact your admin about enabling your user folder."
+msgstr "<strong>Échec</strong> lors de l'upload. Contactez votre administrateur afin de vous octroyer un répertoire d'utilisateur."
+
+#: upload_ui.php:115
+#: 88-files.php:686
+msgid "<strong>Failed</strong> to upload. You need to create and choose a subfolder to upload to."
+msgstr "<strong>Échec</strong> lors de l'upload. Vous devez créer et choisir un sous-répertoire où uploader."
+
+#: upload_ui.php:128
+#: 88-files.php:699
+msgid "<strong>Failed</strong> to upload. You have already uploaded your size quota."
+msgstr "<strong>Échec</strong> lors de l'upload. Vous avez déjà atteint votre quota d'upload."
+
+#: 88-files.php:58
+msgid "Overview"
+msgstr "Aperçu"
+
+#: 88-files.php:59
+msgid "Donate"
+msgstr "Faire un don"
+
+#: 88-files.php:200
+msgid "Warning: There is no \"folder\" shortcode specified."
+msgstr "Attention: il n'y a pas de shortcode \"folder\" de précisé."
+
+#: 88-files.php:480
+msgid "Size: "
+msgstr "Taille"
+
+#: 88-files.php:483
+msgid "Date: "
+msgstr "Date:"
+
+#: 88-files.php:526
+msgid "Usage"
+msgstr "Utilisation"
+
+#: 88-files.php:528
+#: 88-files-delete.php:2
+#: 88-files-delete.php:54
+#: 88-files-delete.php:86
+msgid "Delete Files"
+msgstr "Supprimer les fichiers"
+
+#: 88-files.php:529
+#: 88-files-admin.php:2
+msgid "Administer"
+msgstr "Administrer"
+
+#: 88-files.php:607
+msgid "Successfully saved your settings."
+msgstr "Vos réglages ont été sauvegardés avec succès."
+
+#: 88-files.php:740
+msgid "<strong>Failed</strong> to create the subfolder.  You have already reached your subfolder limit."
+msgstr "<strong>Échec</strong> lors de la création du sous-répertoire. Vous avez déjà atteint la limite de votre sous-répertoire."
+
+#: 88-files.php:867
+msgid "<strong>Failed</strong> to delete the folder %s"
+msgstr "<strong>Échec</strong> de la suppression du répertoire %s"
+
+#: 88-files.php:872
+msgid "The folder %s has been deleted."
+msgstr "Le répertoire %s a été supprimé."
+
+#: 88-files-delete.php:31
+msgid "Delete Folders"
+msgstr "Supprimer des répertoires."
+
+#: 88-files-delete.php:34
+msgid "Select a folder you want to delete.  Then, click on the \"Delete Folder\" button.  <em>Be careful!</em> This will delete all files in the folder."
+msgstr "Sélectionnez un répertoire à effacer. Puis, cliquez sur le bouton \"Supprimer le répertoire\".  <em>Attention !</em>. Ceci va effacer tous les fichiers dans le répertoire."
+
+#: 88-files-delete.php:36
+msgid "Select a folder to delete:"
+msgstr "Sélectionnez un répertoire à effacer:"
+
+#: 88-files-delete.php:46
+msgid "Delete Folder"
+msgstr "Supprimer le répertoire"
+
+#: 88-files-delete.php:57
+msgid "Select a folder whose files you want to display.  Then, click on the \"List Files\" button to show each file.  Each file will then be listed and you can selectively delete your files."
+msgstr "Sélectionnez un répertoire dont vous voulez afficher les fichieres. Ensuite, cliquez sur le bouton \"Liste des fichiers\" pour afficher chacun des fichiers. Chaque fichier sera listé et vous pouvez supprimer les fichiers sélectionnés."
+
+#: 88-files-delete.php:59
+msgid "Select a folder to display its files:"
+msgstr "Sélectionnez un répertoire pour afficher ses fichiers:"
+
+#: 88-files-delete.php:72
+#: 88-files-delete.php:96
+msgid "List Files"
+msgstr "Lister les fichiers"
+
+#: 88-files-delete.php:89
+msgid "Using this \"Delete Files\" settings panel will conveniently allow you to avoid using FTP to delete your files.  Follow these steps:"
+msgstr "Utiliser ce panneau de réglages\"Supprimer les fichiers\" vous évitera d'avoir à utiliser le FTP pour supprimer vos fichiers. Suivez ces étapes:"
+
+#: 88-files-delete.php:90
+msgid "1. Type in the name of the folder you want to browse, again using your WordPress installation as the root folder.  For example:  \"wp-content/gallery/my-new-gallery\" will list the files in the \"my-new-gallery\" subfolder."
+msgstr "1. Tapez le nom du répertoire que vous voulez parcourir, à nouveau en considérant votre installation Wordpress comme racine. Par exemple: \"wp-content/gallery/my-new-gallery\" vous donnera la liste des sous-répertoires de \"my-new-gallery\" ."
+
+#: 88-files-delete.php:91
+msgid "2. Click the \"List Files\" button."
+msgstr "2. Cliquez sur le bouton  \"Liste des fichiers\""
+
+#: 88-files-delete.php:92
+msgid "3. Selectively click on \"Delete\" buttons to delete files."
+msgstr "3. Cliquez de manière sélective sur les boutons \"Supprimer\" pour supprimer les fichiers."
+
+#: 88-files-delete.php:94
+msgid "As always, <em>be careful</em> when deleting files!"
+msgstr "Évidemment, <em>soyez prudent</em> en effaçant des fichiers !"
+
+#: 88-files-delete.php:96
+msgid "Folder to list:"
+msgstr "Répertoires à lister:"
+
+#: 88-files-admin.php:17
+msgid "Administration:"
+msgstr "Administration:"
+
+#: 88-files-admin.php:20
+msgid "Rename the master menu to:"
+msgstr "Renommez le menu principal en:"
+
+#: 88-files-admin.php:27
+msgid "Use the lyf_table_styles.css located in the 'css' folder to style file tables.  Feel free to edit this file."
+msgstr "Utislier le fichier the lyf_table_styles.css situé dans le répertoire 'css' pour définir le style des tables de fichiers. N'hésitez par à modifier ce fichier."
+
+#: 88-files-admin.php:34
+msgid "Restrict uploads to the following file types (no periods, separated by commas):"
+msgstr "Restreindre les uploads aux types de fichiers suivants (pas d'espace ni de point, séparés par des virgules):"
+
+#: 88-files-admin.php:36
+msgid "For example: \"mp3,wav,aif,mov\"."
+msgstr "Par exemple: \"mp3,wav,aif,mov\"."
+
+#: 88-files-admin.php:43
+msgid "Enable user folders"
+msgstr "Autoriser les répertoires par utilisateur"
+
+#: 88-files-admin.php:49
+msgid "Choose the minimum <a href=\"http://codex.wordpress.org/Roles_and_Capabilities\" target=\"_blank\">role</a> that can manage files:"
+msgstr "Veuillez choisir le <a href=\"http://codex.wordpress.org/Roles_and_Capabilities\" target=\"_blank\">rôle</a> minimum autorisé à gérer les fichiers:"
+
+#: 88-files-admin.php:61
+msgid "The least powerful role is \"Subscriber\", the most powerful is \"Administrator\"."
+msgstr "Le rôle le plus restreint est \"Abonné\", celui qui offre toutes les possibilités est \"Administrateur\"."
+
+#: 88-files-admin.php:64
+msgid "Limit the number of user folders to:"
+msgstr "Limiter le nombre de répertoires par utilisateur à: "
+
+#: 88-files-admin.php:65
+#: 88-files-admin.php:69
+msgid "Leave empty for unlimited"
+msgstr "Laisser vide pour un nombre illimité"
+
+#: 88-files-admin.php:68
+msgid "Upload space per user (in MB):"
+msgstr "Espace d'upload par utilisateur (en Mo):"
+
+#: 88-files-admin.php:77
+msgid "Show simple help for users <small>(shows non-admins only the most basic options)"
+msgstr "Montrer une aide simplifée pour les utilisateurs  <small>(montrer aux non administrateurs les options les plus basiques)"
+
+#: 88-files-admin.php:88
+msgid "Enable notification by email when a file is uploaded. Enter the notification email addresses here (separated by commas):"
+msgstr "Autoriser la notification par email quand un fichier est uploadé. Entrer les adresses de notification email ici (séparées par une virgule):"
+
+#: 88-files-admin.php:94
+msgid "Save Settings"
+msgstr "Sauvegarder les réglages"
+
+#: helpers.php:245
+msgid "<strong>Failed</strong> to create the subfolder \"%s\".  Make sure your server file permissions are correct or contact support."
+msgstr "<strong>Échec</strong> lors de la création du sous-répertoire \"%s\". Vérifiez que les autorisations de fichier de votre serveur sont correctes ou contacter le support."
+
+#: helpers.php:248
+msgid "<strong>Failed</strong> to create the subfolder \"%s\" because it already exists.  Choose a different folder name."
+msgstr "<strong>Échec</strong> lors de la création du sous-répertoire \"%s\" parce qu'il existe déjà. Veuillez choisir un nom de répertoire différent."
+
+#: helpers.php:251
+msgid "<strong>Failed</strong> to create the subfolder because it contains some illegal characters."
+msgstr "<strong>Échec</strong> lors de la création du sous-répertoire \"%s\" parce qu'il contient des caractères non autorisés."
+
+#: helpers.php:254
+msgid "<strong>Failed</strong> to create the subfolder because it has no name."
+msgstr "<strong>Échec</strong> lors de la création du sous-répertoire \"%s\" parce qu'il n'a pas de nom."
+
+#: helpers.php:257
+msgid "The subfolder \"%s\" was successfully created."
+msgstr "Le sous-répertoire \"%s\" a été créé avec succès."
+
+#: helpers.php:274
+msgid "the file exceeded the maximum upload size allowed"
+msgstr "le taille du fichier dépasse  la taille maximum d'upload autorisée"
+
+#: helpers.php:277
+msgid "the file exceeded the form's maximum upload size"
+msgstr "la taille de fichier dépasse la taille maximum autorisée par le formulaire d'upload"
+
+#: helpers.php:280
+msgid "the file was only partially uploaded"
+msgstr "le fichier n'a été uploadé que partiellement"
+
+#: helpers.php:283
+msgid "no file was uploaded"
+msgstr "aucun fichier n'a été uploadé"
+
+#: helpers.php:286
+msgid "no temporary directory exists"
+msgstr "il manque un répertoire temporaire"
+
+#: helpers.php:289
+msgid "the file failed to write to disk"
+msgstr "le fichier n'a pas pu être écrit sur le disque"
+
+#: helpers.php:292
+msgid "the upload was prevented by an extension"
+msgstr "l'upload a été empêché du fait d'une extension"
+
+#: helpers.php:351
+msgid "There was a problem accessing the folder: \"%s\"."
+msgstr "Il y a eu un problème lors de l'accès au répertoire: \"%s\"."
+
+#: helpers.php:359
+msgid "<strong>Failed</strong> to create the folder.  Make sure your server file permissions are correct."
+msgstr "<strong>Échec</strong> de la création du répertoire. Vérifiez que les autorisations de fichier de votre serveur sont correctes."
+
+#: helpers.php:382
+msgid "<strong>Failed</strong> to upload '%s' because '%s' files are not allowed."
+msgstr "<strong>Échec</strong> lors de l'upload de  '%s'  parce que les fichiers  '%s'  ne sont pas autorisés."
+
+#: helpers.php:391
+msgid "<strong>Failed</strong> to upload '%s' because %s."
+msgstr "<strong>Échec</strong> lors de l'upload de  '%s' parce que %s."
+
+#: helpers.php:405
+msgid "<strong>Successfully</strong> uploaded %s."
+msgstr "<strong>Succès</strong> de l'upload de %s."
+
+#: helpers.php:412
+msgid "<strong>Failed</strong> to copy over the file %s. Check your folder permissions."
+msgstr "<strong>Échec</strong> de copie par dessus le fichier %s. Vérifiez les autorisations de fichiers."
+
+#: helpers.php:420
+msgid "There are no files to upload.  Browse for files to upload first."
+msgstr "Il n'y a aucun fichier à uploader. Veuillez rechercher des fichiers à uploader en premier lieu."
+
+#: helpers.php:438
+msgid "User"
+msgstr "Utilisateur"
+
+#: helpers.php:443
+msgid "Uploaded files notification for %2"
+msgstr "Notification de fichiers uploadés pour %2"
+
+#: helpers.php:498
+#: helpers.php:512
+msgid "Delete"
+msgstr "Supprimer"
+
+#: helpers.php:510
+msgid "Name"
+msgstr "Nom"
+
+#: helpers.php:511
+msgid "Size"
+msgstr "Taille"
+
+#: information-box.php:2
+msgid "More Information"
+msgstr "Plus d'informations"
+
+#: information-box.php:12
+msgid "Want to have your own site? Try %s!"
+msgstr "Vous désirez avoir votre propre site ? Essayez %s !"
+
+#: information-box.php:22
+#: 88-files-about.php:227
+msgid "Support and Help"
+msgstr "Aide et support"
+
+#: information-box.php:27
+msgid "Restrict files to registered users? Try %s"
+msgstr "Restreindre les fichiers aux utilisateurs enregistrés uniquement ? Essayer %s"
+
+#: information-box.php:33
+msgid "Make your site <em>stunning</em> with %s"
+msgstr "Rendez votre site <em>épatant</em> avec %s"
+
+#: information-box.php:36
+#: 88-files-about.php:234
+msgid "Contact %s to sponsor a feature or write a plugin just for you."
+msgstr "Contactez %s pour sponsoriser une possibilité ou écrire un plugin juste pour vous."
+
+#: information-box.php:37
+#: 88-files-about.php:235
+msgid "Leave a good rating or comments for %s."
+msgstr "Laissez une bonne note ou un commentaire pour %s."
+
+#: 88-files-about.php:2
+msgid "Usage Guide"
+msgstr "Guide d'utilisateur"
+
+#: 88-files-about.php:38
+msgid "Problem creating your user folder! "
+msgstr "Il y a eu un problème lors de la création de votre répertoire !"
+
+#: 88-files-about.php:222
+msgid "Information"
+msgstr "Information"
+
+#~ msgid "Upload"
+#~ msgstr "Upload"

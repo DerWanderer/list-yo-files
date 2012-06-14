@@ -1,0 +1,415 @@
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/list-yo-files\n"
+"POT-Creation-Date: 2011-10-07 07:12:50+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 88-files-upload.php:17
+msgid "unlimited"
+msgstr ""
+
+#: 88-files-upload.php:44
+msgid "Create a Subfolder"
+msgstr ""
+
+#: 88-files-upload.php:47
+msgid "You must create at least one subfolder to upload your files to."
+msgstr ""
+
+#: 88-files-upload.php:47
+msgid "You may create %i folders."
+msgstr ""
+
+#: 88-files-upload.php:48
+msgid "Create Folder"
+msgstr ""
+
+#: 88-files-upload.php:55 88-files-upload.php:102 88-files-upload.php:129
+#: 88-files-upload.php:141 upload_ui.php:184 88-files.php:516
+msgid "Upload Files"
+msgstr ""
+
+#: 88-files-upload.php:67 upload_ui.php:165
+msgid "You are allowed to upload up to %s MB in files."
+msgstr ""
+
+#: 88-files-upload.php:69 upload_ui.php:167
+msgid "You are currently using %s."
+msgstr ""
+
+#: 88-files-upload.php:99 88-files-upload.php:138 upload_ui.php:175
+msgid "Selected Files <small>(You can upload up to 10 files at once)</small>:"
+msgstr ""
+
+#: 88-files-upload.php:132
+msgid ""
+"Type in the name of the folder that you want to upload to.  The folder is a "
+"relative path located in your WordPress installation folder.  For example:  "
+"\"wp-content/gallery/my-new-gallery\".  <strong>NOTE:</strong>  Do not add "
+"opening or closing slashes (\"/\") to the path."
+msgstr ""
+
+#: 88-files-upload.php:133
+msgid ""
+"If the folder does not exist, then List Yo' Files will attempt to create it "
+"for you."
+msgstr ""
+
+#: 88-files-upload.php:134
+msgid "Folder name:"
+msgstr ""
+
+#: 88-files-upload.php:152
+msgid ""
+"<strong>Note:</strong>  If you want to upload additional icon files for your "
+"file lists, you can do that here.  Just use input folder name: \"wp-content/"
+"plugins/list-yo-files/icons\" and then upload 16x16 .png files.  See the "
+"help for more details."
+msgstr ""
+
+#: 88-files-admin.php:17
+msgid "Administration:"
+msgstr ""
+
+#: 88-files-admin.php:20
+msgid "Rename the master menu to:"
+msgstr ""
+
+#: 88-files-admin.php:27
+msgid ""
+"Restrict uploads to the following file types (no periods, separated by "
+"commas):"
+msgstr ""
+
+#: 88-files-admin.php:29
+msgid "For example: \"mp3,wav,aif,mov\"."
+msgstr ""
+
+#: 88-files-admin.php:36
+msgid "Enable user folders"
+msgstr ""
+
+#: 88-files-admin.php:42
+msgid ""
+"Choose the minimum <a href=\"http://codex.wordpress.org/"
+"Roles_and_Capabilities\" target=\"_blank\">role</a> that can manage files:"
+msgstr ""
+
+#: 88-files-admin.php:54
+msgid ""
+"The least powerful role is \"Subscriber\", the most powerful is "
+"\"Administrator\"."
+msgstr ""
+
+#: 88-files-admin.php:57
+msgid "Limit the number of user folders to:"
+msgstr ""
+
+#: 88-files-admin.php:58 88-files-admin.php:62
+msgid "Leave empty for unlimited"
+msgstr ""
+
+#: 88-files-admin.php:61
+msgid "Upload space per user (in MB):"
+msgstr ""
+
+#: 88-files-admin.php:70
+msgid ""
+"Show simple help for users <small>(shows non-admins only the most basic "
+"options)"
+msgstr ""
+
+#: 88-files-admin.php:81
+msgid ""
+"Enable notification by email when a file is uploaded. Enter the notification "
+"email addresses here (separated by commas):"
+msgstr ""
+
+#: 88-files-admin.php:84
+msgid "Save Settings"
+msgstr ""
+
+#: information-box.php:12
+msgid "Want to have your own site? Try %s!"
+msgstr ""
+
+#: information-box.php:22 88-files-about.php:227
+msgid "Support and Help"
+msgstr ""
+
+#: information-box.php:27
+msgid "Restrict files to registered users? Try %s"
+msgstr ""
+
+#: information-box.php:33
+msgid "Make your site <em>stunning</em> with %s"
+msgstr ""
+
+#: information-box.php:36 88-files-about.php:234
+msgid "Contact %s to sponsor a feature or write a plugin just for you."
+msgstr ""
+
+#: information-box.php:37 88-files-about.php:235
+msgid "Leave a good rating or comments for %s."
+msgstr ""
+
+#: 88-files-about.php:38
+msgid "Problem creating your user folder! "
+msgstr ""
+
+#: 88-files-about.php:222
+msgid "Information"
+msgstr ""
+
+#: upload_ui.php:63
+msgid "You must first log in before uploading files."
+msgstr ""
+
+#: upload_ui.php:89
+msgid ""
+"<strong>Failed</strong> to upload. Contact your admin about enabling your "
+"user folder."
+msgstr ""
+
+#: upload_ui.php:115 88-files.php:670
+msgid ""
+"<strong>Failed</strong> to upload. You need to create and choose a subfolder "
+"to upload to."
+msgstr ""
+
+#: upload_ui.php:128 88-files.php:683
+msgid ""
+"<strong>Failed</strong> to upload. You have already uploaded your size quota."
+msgstr ""
+
+#: 88-files-delete.php:31
+msgid "Delete Folders"
+msgstr ""
+
+#: 88-files-delete.php:34
+msgid ""
+"Select a folder you want to delete.  Then, click on the \"Delete Folder\" "
+"button.  <em>Be careful!</em> This will delete all files in the folder."
+msgstr ""
+
+#: 88-files-delete.php:36
+msgid "Select a folder to delete:"
+msgstr ""
+
+#: 88-files-delete.php:46
+msgid "Delete Folder"
+msgstr ""
+
+#: 88-files-delete.php:54 88-files-delete.php:86 88-files.php:517
+msgid "Delete Files"
+msgstr ""
+
+#: 88-files-delete.php:57
+msgid ""
+"Select a folder whose files you want to display.  Then, click on the \"List "
+"Files\" button to show each file.  Each file will then be listed and you can "
+"selectively delete your files."
+msgstr ""
+
+#: 88-files-delete.php:59
+msgid "Select a folder to display its files:"
+msgstr ""
+
+#: 88-files-delete.php:72 88-files-delete.php:96
+msgid "List Files"
+msgstr ""
+
+#: 88-files-delete.php:89
+msgid ""
+"Using this \"Delete Files\" settings panel will conveniently allow you to "
+"avoid using FTP to delete your files.  Follow these steps:"
+msgstr ""
+
+#: 88-files-delete.php:90
+msgid ""
+"1. Type in the name of the folder you want to browse, again using your "
+"WordPress installation as the root folder.  For example:  \"wp-content/"
+"gallery/my-new-gallery\" will list the files in the \"my-new-gallery\" "
+"subfolder."
+msgstr ""
+
+#: 88-files-delete.php:91
+msgid "2. Click the \"List Files\" button."
+msgstr ""
+
+#: 88-files-delete.php:92
+msgid "3. Selectively click on \"Delete\" buttons to delete files."
+msgstr ""
+
+#: 88-files-delete.php:94
+msgid "As always, <em>be careful</em> when deleting files!"
+msgstr ""
+
+#: 88-files-delete.php:96
+msgid "Folder to list:"
+msgstr ""
+
+#: helpers.php:245
+msgid ""
+"<strong>Failed</strong> to create the subfolder \"%s\".  Make sure your "
+"server file permissions are correct or contact support."
+msgstr ""
+
+#: helpers.php:248
+msgid ""
+"<strong>Failed</strong> to create the subfolder \"%s\" because it already "
+"exists.  Choose a different folder name."
+msgstr ""
+
+#: helpers.php:251
+msgid ""
+"<strong>Failed</strong> to create the subfolder because it contains some "
+"illegal characters."
+msgstr ""
+
+#: helpers.php:254
+msgid "<strong>Failed</strong> to create the subfolder because it has no name."
+msgstr ""
+
+#: helpers.php:257
+msgid "The subfolder \"%s\" was successfully created."
+msgstr ""
+
+#: helpers.php:274
+msgid "the file exceeded the maximum upload size allowed"
+msgstr ""
+
+#: helpers.php:277
+msgid "the file exceeded the form's maximum upload size"
+msgstr ""
+
+#: helpers.php:280
+msgid "the file was only partially uploaded"
+msgstr ""
+
+#: helpers.php:283
+msgid "no file was uploaded"
+msgstr ""
+
+#: helpers.php:286
+msgid "no temporary directory exists"
+msgstr ""
+
+#: helpers.php:289
+msgid "the file failed to write to disk"
+msgstr ""
+
+#: helpers.php:292
+msgid "the upload was prevented by an extension"
+msgstr ""
+
+#: helpers.php:351
+msgid "There was a problem accessing the folder: \"%s\"."
+msgstr ""
+
+#: helpers.php:359
+msgid ""
+"<strong>Failed</strong> to create the folder.  Make sure your server file "
+"permissions are correct."
+msgstr ""
+
+#: helpers.php:382
+msgid ""
+"<strong>Failed</strong> to upload '%s' because '%s' files are not allowed."
+msgstr ""
+
+#: helpers.php:391
+msgid "<strong>Failed</strong> to upload '%s' because %s."
+msgstr ""
+
+#: helpers.php:405
+msgid "<strong>Successfully</strong> uploaded %s."
+msgstr ""
+
+#: helpers.php:412
+msgid ""
+"<strong>Failed</strong> to copy over the file %s. Check your folder "
+"permissions."
+msgstr ""
+
+#: helpers.php:420
+msgid "There are no files to upload.  Browse for files to upload first."
+msgstr ""
+
+#: helpers.php:438
+msgid "User"
+msgstr ""
+
+#: helpers.php:443
+msgid "Uploaded files notification for %2"
+msgstr ""
+
+#: helpers.php:498 helpers.php:512 88-files.php:517
+msgid "Delete"
+msgstr ""
+
+#: helpers.php:510
+msgid "Name"
+msgstr ""
+
+#: helpers.php:511
+msgid "Size"
+msgstr ""
+
+#: 88-files.php:55
+msgid "Overview"
+msgstr ""
+
+#: 88-files.php:56
+msgid "Donate"
+msgstr ""
+
+#: 88-files.php:188
+msgid "Warning: There is no \"folder\" shortcode specified."
+msgstr ""
+
+#: 88-files.php:469
+msgid "Size: "
+msgstr ""
+
+#: 88-files.php:472
+msgid "Date: "
+msgstr ""
+
+#: 88-files.php:515
+msgid "Usage"
+msgstr ""
+
+#: 88-files.php:516
+msgid "Upload"
+msgstr ""
+
+#: 88-files.php:518
+msgid "Administer"
+msgstr ""
+
+#: 88-files.php:591
+msgid "Successfully saved your settings."
+msgstr ""
+
+#: 88-files.php:724
+msgid ""
+"<strong>Failed</strong> to create the subfolder.  You have already reached "
+"your subfolder limit."
+msgstr ""
+
+#: 88-files.php:851
+msgid "<strong>Failed</strong> to delete the folder %s"
+msgstr ""
+
+#: 88-files.php:856
+msgid "The folder %s has been deleted."
+msgstr ""
